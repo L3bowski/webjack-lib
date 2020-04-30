@@ -29,7 +29,7 @@
     "dependencies": {
         "apexcharts": "^3.8.4",
         "bootstrap": "^3.2.0",
-        "jquery": "^2.1.1",
+        "jquery": "^3.5.0",
         "toastr": "^2.1.4",
         "vue": "^2.6.10",
         "vue-apexcharts": "^1.4.0",
